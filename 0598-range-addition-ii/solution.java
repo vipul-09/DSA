@@ -1,0 +1,18 @@
+class Solution {
+    public int maxCount(int m, int n, int[][] ops) {
+        // If no operations, all elements are 0 (maximum)
+        if (ops == null || ops.length == 0) {
+            return m * n;
+        }
+
+        int minA = m;
+        int minB = n;
+
+        for (int[] op : ops) {
+            minA = Math.min(minA, op[0]);
+            minB = Math.min(minB, op[1]);
+        }
+
+        return minA * minB;
+    }
+}
