@@ -15,35 +15,50 @@
 
 ## 📌 About
 
-> This repository contains my accepted **LeetCode** solutions implemented in **Java**. It reflects my continuous journey in mastering **Data Structures & Algorithms** and preparing for technical interviews.
+> This repository documents my journey of solving Data Structures and Algorithms problems on LeetCode using Java. Each solution is organized by problem number and title to keep the repository clean and easy to navigate.
+
+📚 Strengthen DSA fundamentals
+🧠 Improve analytical and problem-solving skills
+💼 Prepare for Software Engineering interviews
+🚀 Track my coding journey consistently
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```text
-💻 Language    : Java
-📚 Platform    : LeetCode
-🔄 Sync        : GitHub Actions
-🎯 Focus       : DSA & Interview Preparation
+☕ Java
+🟧 LeetCode
+🐙 Git & GitHub
+⚡ GitHub Actions
 ```
 
 ---
 
 ## 📂 Topics Covered
 
-| Data Structures | Algorithms |
-|-----------------|------------|
-| ✅ Arrays | ✅ Binary Search |
-| ✅ Strings | ✅ Recursion |
-| ✅ Linked List | ✅ Backtracking |
-| ✅ Stack | ✅ Greedy |
-| ✅ Queue | ✅ Sliding Window |
-| ✅ Trees | ✅ Two Pointers |
-| ✅ BST | ✅ Dynamic Programming |
-| ✅ Heap | ✅ Graph |
-| ✅ HashMap | ✅ Bit Manipulation |
-
+✅ Arrays
+✅ Strings
+✅ HashMap
+✅ Linked List
+✅ Stack
+✅ Queue
+✅ Binary Search
+✅ Two Pointers
+✅ Sliding Window
+✅ Prefix Sum
+✅ Trees
+✅ Binary Search Tree
+✅ Graphs
+✅ Heap (Priority Queue)
+✅ Greedy Algorithms
+✅ Recursion
+✅ Backtracking
+✅ Dynamic Programming
+✅ Bit Manipulation
+✅ Math
+✅ Sorting
 ---
 
 ## 🎯 Goals
@@ -52,18 +67,6 @@
 - ✅ Strengthen Problem-Solving Skills
 - ✅ Master DSA Concepts
 - ✅ Crack Software Engineering Interviews
-
----
-
-## 📁 Repository Structure
-
-```text
-📦 DSA
- ┣ 📂 0001-two-sum
- ┣ 📂 0002-add-two-numbers
- ┣ 📂 0003-longest-substring-without-repeating-characters
- ┗ 📂 ...
-```
 
 ---
 
