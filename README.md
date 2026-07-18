@@ -1,67 +1,80 @@
-# 🚀 DSA - Data Structures & Algorithms
+<div align="center">
 
-Welcome to my **Data Structures & Algorithms (DSA)** repository.
+# 🚀 Data Structures & Algorithms
 
-This repository contains my accepted solutions to coding problems from **LeetCode**, written in **Java**. It serves as my coding journal and helps me strengthen my problem-solving skills for coding interviews and competitive programming.
+### 💡 *"Consistency beats intensity. One problem at a time."*
 
-## 📌 About
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode)
+![Status](https://img.shields.io/badge/Status-Actively%20Solving-success?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Repository-DSA-blue?style=for-the-badge&logo=github)
 
-- 💻 Platform: LeetCode
-- ☕ Language: Java
-- 📂 Repository: DSA
-- 🔄 Solutions are synced automatically using GitHub Actions.
-
-## 📚 Topics Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Heaps (Priority Queue)
-- HashMap & HashSet
-- Recursion
-- Backtracking
-- Binary Search
-- Sliding Window
-- Two Pointers
-- Greedy Algorithms
-- Dynamic Programming
-- Graphs
-- Tries
-- Bit Manipulation
-- Math
-
-## 📁 Repository Structure
-
-```
-0001-two-sum/
-0002-add-two-numbers/
-0003-longest-substring-without-repeating-characters/
-...
-```
-
-Each folder contains:
-- ✅ Java Solution
-- 📄 Problem Description (if available)
-
-## 🎯 Goal
-
-- Solve 500+ LeetCode Problems
-- Master Data Structures & Algorithms
-- Improve Problem Solving Skills
-- Prepare for Software Engineering Interviews
-
-## 📈 Progress
-
-⭐ Continuously Updated
-
-## 🤝 Connect with Me
-
-- GitHub: https://github.com/YOUR_USERNAME
+</div>
 
 ---
 
-### Happy Coding! 🚀
+## 📌 About
+
+> This repository contains my accepted **LeetCode** solutions implemented in **Java**. It reflects my continuous journey in mastering **Data Structures & Algorithms** and preparing for technical interviews.
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+💻 Language    : Java
+📚 Platform    : LeetCode
+🔄 Sync        : GitHub Actions
+🎯 Focus       : DSA & Interview Preparation
+```
+
+---
+
+## 📂 Topics Covered
+
+| Data Structures | Algorithms |
+|-----------------|------------|
+| ✅ Arrays | ✅ Binary Search |
+| ✅ Strings | ✅ Recursion |
+| ✅ Linked List | ✅ Backtracking |
+| ✅ Stack | ✅ Greedy |
+| ✅ Queue | ✅ Sliding Window |
+| ✅ Trees | ✅ Two Pointers |
+| ✅ BST | ✅ Dynamic Programming |
+| ✅ Heap | ✅ Graph |
+| ✅ HashMap | ✅ Bit Manipulation |
+
+---
+
+## 🎯 Goals
+
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Strengthen Problem-Solving Skills
+- ✅ Master DSA Concepts
+- ✅ Crack Software Engineering Interviews
+
+---
+
+## 📁 Repository Structure
+
+```text
+📦 DSA
+ ┣ 📂 0001-two-sum
+ ┣ 📂 0002-add-two-numbers
+ ┣ 📂 0003-longest-substring-without-repeating-characters
+ ┗ 📂 ...
+```
+
+---
+
+## 🌟 Motto
+
+> **"Every accepted solution is one step closer to becoming a better engineer."**
+
+---
+
+<div align="center">
+
+### ⭐ If you find this repository useful, consider giving it a star!
+
+</div>
